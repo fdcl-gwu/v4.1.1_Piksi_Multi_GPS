@@ -1,0 +1,3 @@
+/home/user/Documents/zenotest/v4.1.1_Piksi_Multi_GPS/build/CMakeFiles/piksi_gps.dir
+/home/user/Documents/zenotest/v4.1.1_Piksi_Multi_GPS/build/CMakeFiles/edit_cache.dir
+/home/user/Documents/zenotest/v4.1.1_Piksi_Multi_GPS/build/CMakeFiles/rebuild_cache.dir
