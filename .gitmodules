@@ -1,3 +1,8 @@
 [submodule "libraries/libsbp"]
     path = libraries/libsbp
     url = https://github.com/swift-nav/libsbp.git
+
+
+[submodule "libraries/zenoh-cpp"]
+    path = libraries/zenoh-cpp
+    url = https://github.com/eclipse-zenoh/zenoh-cpp.git
