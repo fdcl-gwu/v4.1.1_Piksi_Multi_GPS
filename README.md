@@ -1,7 +1,10 @@
-System libraries needed to install:
+# System libraries needed to install:
 
-Zenoh-cpp
-Libsbp v4.1.1
+## Zenoh-cpp
+## Libsbp v4.1.1
+
+## Update these using
+## `git submodule update --init`
 
 Both are contained in this program, 
 
