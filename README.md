@@ -5,6 +5,13 @@
 
 ## Update these using
 ## `git submodule update --init`
+This registers the submodule to the correct path, contained in .gitmodules
+
+## `git submodule sync`
+Update project configuration with the new information.
+
+## `git submodule update --init`
+Pull the source code from the repo
 
 # Installation of LibSBP:
 cd /libsbp/c/
