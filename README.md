@@ -5,16 +5,30 @@
 
 
 # Libraries needed to install as git submodules:
-
 ## Zenoh-cpp
 ## Libsbp v4.1.1
 
 ## Update these using
-## `git submodule update --init`
-This registers the submodule to the correct path, contained in .gitmodules
+### `git submodule update --init`
 
-## `git submodule sync`
+### `git submodule sync`
 Update project configuration with the new information.
+
+### `mkdir build && cd build`
+
+### `cmake -G Ninja ..`
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Installation of LibSBP:
 cd /libsbp/c/
