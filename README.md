@@ -55,5 +55,4 @@ Follow these steps in your terminal from the root directory of the project.
     ninja
     ```
 
-After these steps are complete, the compiled binaries will be available inside the `build` directory.
-
+After these steps are complete, the compiled binary will be available inside the `build` directory.
