@@ -1,4 +1,10 @@
-# System libraries needed to install:
+# System Libraries needed to install:
+## LibSerialPort
+# LibSerialPort Installation Ubuntu:
+## `sudo apt install libserialport-dev`
+
+
+# Libraries needed to install as git submodules:
 
 ## Zenoh-cpp
 ## Libsbp v4.1.1
